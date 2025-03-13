@@ -28,5 +28,5 @@ Ensure you have the following installed:
 ### **2. Clone the Repository**
 Run the following command in your terminal:
 ```sh
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Mahadeva1437/Pat-Informed.git)
 
